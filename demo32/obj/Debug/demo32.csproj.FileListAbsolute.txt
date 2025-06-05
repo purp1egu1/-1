@@ -1,0 +1,14 @@
+C:\Users\student.BAK93\Desktop\demo32\bin\Debug\demo32.exe.config
+C:\Users\student.BAK93\Desktop\demo32\bin\Debug\demo32.exe
+C:\Users\student.BAK93\Desktop\demo32\bin\Debug\demo32.pdb
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.csproj.AssemblyReference.cache
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.csproj.SuggestedBindingRedirects.cache
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.Form1.resources
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.Properties.Resources.resources
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.csproj.GenerateResource.cache
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.csproj.CoreCompileInputs.cache
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.exe
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.pdb
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.AddClient.resources
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.redClient.resources
+C:\Users\student.BAK93\Desktop\demo32\obj\Debug\demo32.History.resources
